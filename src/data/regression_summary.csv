@@ -1,0 +1,8 @@
+metric,value
+rows,2973
+target,salary_cap_pct
+features,"age, gp, min, w_pct, off_rating, def_rating, net_rating, ast_pct, reb_pct, ts_pct, usg_pct, pie, fgm_pg, fg_pct"
+intercept,9.021254624957956
+r_squared,0.6012324367724978
+rmse,5.577192486244138
+mae,4.285628103775048

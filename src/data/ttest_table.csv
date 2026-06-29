@@ -1,0 +1,5 @@
+metric,contract_mean,non_contract_mean,t_stat,p_value,reject_or_not,pct_diff
+pie,0.1025,0.1019,0.3811,0.7031,not rejected,0.59
+ts_pct,0.5776,0.5708,2.8838,0.004,reject,1.19
+fgm_pg,4.5697,4.6697,-0.9176,0.3589,not rejected,-2.14
+usg_pct,0.1925,0.1956,-1.142,0.2536,not rejected,-1.58
