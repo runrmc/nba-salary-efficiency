@@ -1,4 +1,4 @@
-# Bang for the Buck: Modeling NBA Player Performance to Contract Value
+# Bang for the Buck(et): Modeling NBA Player Performance to Contract Value
 
 ## Overview
 Do NBA teams win because they spend more, or because they spend more efficiently? This project
